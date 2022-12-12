@@ -448,7 +448,7 @@
     background-image: url('./img/截圖\ 2021-06-10\ 下午6.52\ 1.png');
 }
 
-.banner-footer-mobile{
+.banner-footer-mobile {
     display: none;
 }
 
@@ -651,17 +651,19 @@
     .footer,
     .website,
     .center-2,
-    .center-3, .select {
+    .center-3,
+    .select {
         display: none;
     }
 
-    .banner-footer-mobile{
+    .banner-footer-mobile {
         display: block;
-        margin-top:1100px;
+        margin-top: 1100px;
         width: 390px;
         height: 130px;
         background-color: grey;
     }
+
     .banner-footer-mobile img {
         width: 390px;
         height: 130px;
